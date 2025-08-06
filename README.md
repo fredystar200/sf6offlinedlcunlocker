@@ -27,7 +27,7 @@ A *SF6* DLC content enabler for **offline/local use**, intended strictly for **m
 3. **Make sure** to backup your win64_save folder before use : Located at: **Steam-folder\\userdata\\your SteamID32\\1364780\\remote\\win64_save\\** (You can use https://steamid.xyz/ with your profile page link to know your steamID32 in case you have multiple account)
 4. **Run the tool** 
 5. **Select** Add Files and Folder
-6. **Launch** Street Fighter 6 in **offline mode**
+6. **Launch** Steam in offline mode and **Launch** SF6
 7. To go back online, use **Remove Files and Folder** and replace your backup in **Steam-folder\\userdata\\your SteamID32\\1364780\\remote\\win64_save\\**
             
 
