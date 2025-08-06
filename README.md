@@ -1,6 +1,6 @@
 # 🎮 SF6 DLC Unlocker (Educational Use Only)
 
-A **SF6* DLC content enabler for **offline/local use**, intended strictly for **modding research and educational purposes**.
+A *SF6* DLC content enabler for **offline/local use**, intended strictly for **modding research and educational purposes**.
 
 > ⚠️ **Disclaimer**  
 > This tool is provided solely for **learning and experimentation with game file modification**.  
@@ -23,11 +23,12 @@ A **SF6* DLC content enabler for **offline/local use**, intended strictly for **
 ## 📁 Usage (Offline Only)
 
 1. **Download** the latest release from the [Releases](#) page
-2. **Make sure** to backup your win64_save folder before use : Located at: **Steam-folder\\userdata\\<user-id>\\1364780\\remote\\win64_save\\**
-3. **Run the tool** 
-4. **Select** Add Files and Folder
-5. **Launch** Street Fighter 6 in **offline mode**
-6. To go back online, use **Remove Files and Folder** and replace your backup
+2. **Can be detected as a false positive but it's totally safe so Manage your antivirus**
+3. **Make sure** to backup your win64_save folder before use : Located at: **Steam-folder\\userdata\\your SteamID32\\1364780\\remote\\win64_save\\** (You can use https://steamid.xyz/ with your profile page link to know your steamID32 in case you have multiple account)
+4. **Run the tool** 
+5. **Select** Add Files and Folder
+6. **Launch** Street Fighter 6 in **offline mode**
+7. To go back online, use **Remove Files and Folder** and replace your backup in **Steam-folder\\userdata\\your SteamID32\\1364780\\remote\\win64_save\\**
             
 
 ---
@@ -46,7 +47,7 @@ A **SF6* DLC content enabler for **offline/local use**, intended strictly for **
 This project was created for:
 
 - **Educational purposes**
-- **file structure analysis**
+- **File structure analysis**
 
 > ❌ Not intended for piracy, online use, or unfair gameplay advantage.
 
