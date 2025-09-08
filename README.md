@@ -22,7 +22,8 @@ A *SF6* DLC content enabler for **offline/local use**, intended strictly for **m
 
 ## 📁 Usage (Offline Only)
 
-1. **Download** the latest release from the [Releases](#) page
+1. **Download** the latest release from the [![Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/fredystar200/sf6offlinedlcunlocker/releases/)
+ page
 2. **Can be detected as a false positive but it's totally safe so Manage your antivirus**
 3. **Make sure** to backup your win64_save folder before use : Located at: **Steam-folder\\userdata\\your SteamID32\\1364780\\remote\\win64_save\\** (You can use https://steamid.xyz/ with your profile page link to know your steamID32 in case you have multiple account)
 4. **Run the tool** 
