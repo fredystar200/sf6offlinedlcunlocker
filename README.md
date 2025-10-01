@@ -1,4 +1,4 @@
-# 🎮 SF6 DLC Unlocker (Educational Use Only)
+# 🎮 SF6 Offline DLC Unlocker (Educational Use Only)
 
 A *SF6* DLC content enabler for **offline/local use**, intended strictly for **modding research and educational purposes**.
 
