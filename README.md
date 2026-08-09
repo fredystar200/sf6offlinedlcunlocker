@@ -22,9 +22,8 @@ A *SF6* DLC content enabler for **offline/local use**, intended strictly for **m
 
 ## 📁 Usage (Offline Only)
 
-1. **Download** the latest release from the [![Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/fredystar200/sf6offlinedlcunlocker/releases/)
- page
-2. **Can be detected as a false positive but it's totally safe so Manage your antivirus**
+1. **Download** the latest release (SF6OfflineDLCUnlocker.exe) from the [![Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/fredystar200/sf6offlinedlcunlocker/releases/) page
+2. **Can be detected as a false positive but it's totally safe so Disable your antivirus**
 3. **Make sure** to backup your win64_save folder before use : Located at: **Steam-folder\\userdata\\your SteamID32\\1364780\\remote\\win64_save\\** (You can use https://steamid.xyz/ with your profile page link to know your steamID32 in case you have multiple account)
 4. **Run the tool** 
 5. **Select** Add Files and Folder and choose the sf6 folder
@@ -51,6 +50,25 @@ This project was created for:
 - **File structure analysis**
 
 > ❌ Not intended for piracy, online use, or unfair gameplay advantage.
+
+---
+
+## 💡 Want a fast way to switch to offline / online mode ?
+
+- Put Steam to Offline Mode and remove all the files of the dlc unlocker inside your sf6 folder :
+├─ reframework\
+├─ dinput8.dll
+├─ SmokeAPI.dll
+└─ version.dll
+- Download SF6OfflineDLCUnlocker.7z and SF6OfflineDLCUnlocker_config.7z from from the [![Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/fredystar200/sf6offlinedlcunlocker/releases/) page and extract the both
+- Put the contents of SF6OfflineDLCUnlocker.7z inside the offline folder of SF6OfflineDLCUnlocker_config
+- Launch sf6configurator.bat and set follow the instructions (Use https://steamid.xyz/ with your profile page link or Tcno-acc-switcher to know your Steam UserID (steamID32)
+- Enter the full path to your Street Fighter 6 folder, Enter the full path to your Steam userdata folder and Enter your Steam User ID
+- Launch sf6online.bat (you can make a shortcut to your desktop) : if you have configured correctly sf6configurator.bat, you will see SF6 STATUS: ONLINE or OFFLINE.
+You have two options then : Offline or Online Mode (offline will put the files and backup the savedata and online will revert it)
+
+After that you can only use sf6online.bat when you want to switch.
+
 
 ---
 
